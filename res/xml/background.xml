@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="idle" canLoop="true" > 
+		<framerect top="10" left="90" bottom="490" right="410" delayNextFrame="1" />
+	</animation>
+</animations>
