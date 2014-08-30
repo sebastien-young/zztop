@@ -35,6 +35,10 @@ int れん(char *ぶ, int まぅ){
 }
 
 int main(int アルグチ, char **アルグヴ){
+    printf("%12s | %s\n", "email", "kevin.albert@productops.com");
+    printf("%12s | %s\n", "email", "54.kevinalbert@gmail.com");
+    printf("%12s | %s\n", "facebook", "https://www.facebook.com/kevin.a.albert");
+    printf("%12s | %s\n", "linkedin", "https://www.linkedin.com/profile/view?id=156672417");
 	int る = 1;
 	while(る){
 		struct winsize ウィ;
